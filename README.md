@@ -1,5 +1,3 @@
-# Sajid
-
 # Hi there, I'm Sajid Hussain 👋
 
 I am a passionate developer with interests in High-Performance Computing (HPC), Generative AI, Web3, and Robotic Process Automation (RPA).
